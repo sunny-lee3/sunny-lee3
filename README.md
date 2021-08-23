@@ -5,9 +5,8 @@
 As any engineer does, I am continuously learning and am open to any guidance, or suggestions so send them my way! 
 
 
-Fun Fact: On days where the responsibility is at its lowest, and I find myself deprived of movement, I am watching anime. 🤌
+Fun Fact: On days where the responsibility is at its lowest, and I find myself deprived of movement, I am watching anime - or working on a personal project. 🤌
 
-![Once-Punch Man](https://cdn.guidingtech.com/imager/assets/215507/best-anime-One-Punch-Man-HD-wallpapers_4d470f76dc99e18ad75087b1b8410ea9.jpg?1549108744)
 
 <!--
 **sunny-lee3/sunny-lee3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

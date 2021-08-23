@@ -5,7 +5,7 @@
 As any engineer does, I am continuously learning and am open to any guidance, or suggestions so send them my way! 
 
 
-Fun Fact: On days where the responsibility is at its lowest, and I find myself deprived of movement, I am watching anime - or working on a personal project ✨
+Fun Fact: On days where the responsibility is at its lowest, and I find myself deprived of movement, I am watching anime - or working on a personal project. ✨
 
 
 <!--

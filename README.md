@@ -5,7 +5,7 @@
 As any engineer does, I am continuously learning and am open to any guidance, or suggestions so send them my way! 
 
 
-Fun Fact: I LOVE ANIME. 
+Fun Fact: On days where the responsibility is at its lowest, and I find myself deprived of movement, I am watching anime. 🤌
 
 ![Once-Punch Man](https://cdn.guidingtech.com/imager/assets/215507/best-anime-One-Punch-Man-HD-wallpapers_4d470f76dc99e18ad75087b1b8410ea9.jpg?1549108744)
 

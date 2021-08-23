@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 👋
+
+🔭 I’m currently working on BountyExpress. The vision for this web application is to create a social network. This is a continuation project from "Bounty", and will have additional features and an entirely different user story. The same concept will remain. 
+
+As any engineer does, I am continuously learning and am open to any guidance, or suggestions so send them my way! 
 
 <!--
 **sunny-lee3/sunny-lee3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

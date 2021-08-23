@@ -4,6 +4,11 @@
 
 As any engineer does, I am continuously learning and am open to any guidance, or suggestions so send them my way! 
 
+
+Fun Fact: I LOVE ANIME. 
+
+![Gif](https://i.gifer.com/J4Qb.gif)
+
 <!--
 **sunny-lee3/sunny-lee3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

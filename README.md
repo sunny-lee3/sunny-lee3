@@ -1,8 +1,6 @@
 ### Hello 👋
 
-🔭 I’m currently working on BountyExpress [BountyExpressRepo](https://github.com/sunny-lee3/bountyExpress-Front.git). The vision for this web application is to create a social network, that will allow users to express an imagination and make those dreams a reality. This is a continuation project from "Bounty" [Organization for Bounty](https://github.com/Creams-Quad) (this web application uses a users dream but with ice-cream), and will have additional features and an entirely different user story. Furthermore, I will be introducing the use of TestCafe to (React) the front-end for functional testing, as well as some non-functional testing. The same concept will remain. 
-
-As any engineer does, I am continuously learning and am open to any guidance, or suggestions so send them my way! 
+As a new-comer in the developer wolrd, I am continuously learning and am open to any guidance, or suggestions so send them my way! 
 
 
 *Fun Fact: On days where the responsibility is at its lowest, and I find myself deprived of movement, I am watching anime - or working on a personal project.* ✨
